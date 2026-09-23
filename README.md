@@ -1,1 +1,1 @@
-### Thingking-Machine (oaio).
+### Explaining-Machine (oaio).
